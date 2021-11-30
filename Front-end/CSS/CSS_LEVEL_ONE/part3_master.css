@@ -1,0 +1,34 @@
+/* .firstDiv {
+  color: blue;
+}
+.secondDiv{
+  color: red;
+}
+#pid{
+  color: green;
+  text-decoration: line-through;
+}
+
+
+
+h3 + ul {
+  border: 9px dotted purple;
+}
+li a{
+  color: red;
+}
+li a[href="file:///Users/mohamedosman/Desktop/Course/CSS/part2.html"]{
+  color: blue;
+  border: 5px solid orange;
+
+} */
+
+ul {
+  color: red;
+}
+.topitems{
+  color: blue;
+}
+#two{
+  border: 4px solid black;
+}

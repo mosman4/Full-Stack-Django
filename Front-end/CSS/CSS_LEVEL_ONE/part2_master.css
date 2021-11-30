@@ -1,0 +1,17 @@
+body{
+  background: url(https://i.kym-cdn.com/entries/icons/facebook/000/033/376/tiger.jpg);
+
+}
+p {
+  color: red;
+}
+div{
+  background: yellow;
+  border-width: 20px;
+  border-color: green;
+  border-style: double;
+}
+
+span{
+  color: black;
+}

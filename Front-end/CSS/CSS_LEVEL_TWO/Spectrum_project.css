@@ -1,0 +1,39 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+
+}
+table {
+
+margin: auto;
+
+
+}
+
+td {
+  height: 220px;
+  width: 120px;
+  border: 5px solid white;
+
+
+}
+#firsttd {
+background: #264653;
+
+}
+
+#secondtd {
+background: #2A9D8F;
+}
+
+#thirdtd {
+background: #E9C46A;
+}
+
+#fourthtd {
+background: #F4A261;
+}
+
+#fifthtd {
+  background: #E76F51;
+}

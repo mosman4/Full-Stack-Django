@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  color: white;
+  background: #031627;
+  font-family: 'Poppins', sans-serif;
+
+
+}
+div {
+  border-bottom: 60px solid #54C1B2;
+  border-right: 65px solid #54C1B2;
+  border-left: 65px solid #54C1B2;
+  width: 800px;
+  height: 1030px;
+  padding-left: 250px;
+  padding-right: 250px;
+
+
+}
+
+.nextpage {
+  height: 150px;
+}
+
+#toppar {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#fninput {
+
+width: 250px;
+height: 30px;
+}
+
+#lninput {
+  width: 250px;
+  height: 30px;
+}
+
+#einput {
+  width: 250px;
+  height: 30px;
+}
+
+#submitb {
+  width: 150px;
+  height: 60px;
+  background: #fcba03;
+  font-size: 20px;
+  border-radius: 15px;
+}
